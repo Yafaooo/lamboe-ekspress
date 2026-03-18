@@ -34,7 +34,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="text-center" style={{ color: 'var(--text-muted)', fontSize: '0.875rem' }}>
-          &copy; {new Date().getFullYear()} LAMBOE Ekspress. Portfolio Project.
+          &copy; {new Date().getFullYear()} LAMBOE Ekspress.
         </div>
       </div>
     </footer>
